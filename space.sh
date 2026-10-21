@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Gets the overall use of the partition of the specified directory (current directory by default). Gets the biggest folders (5 by default) and the biggest files (5 by default).
+# Gets the overall use of the partition of the directory (current directory by default), the biggest folders (5 by default) and the biggest files (5 by default).
 
 usage() {
     echo "Usage: $0 [OPTIONS] [PATH]"
